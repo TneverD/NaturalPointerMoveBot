@@ -48,6 +48,7 @@ Run
 bash
 
 python natural_pointer_move_bot.py
+```
 
 On some Linux setups you may also need python3-tk and scrot or gnome-screenshot for ImageGrab.
 Hotkeys
